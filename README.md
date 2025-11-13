@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adbul Masood</h1>
 <h3 align="center">Founder/CEO Of D.R.D Cybersecurity</h3>
+<img src ="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height= "100" width= "900"/>
 <img align="right" alt="Pentesting" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRwaW1uOWpkbmNrMjQweHh0MTc4NWwxYzBwbmJmdWNxd2lzOHR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drdsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="drdsecurity" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drdsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="drdsecurity" /> 
+<img src= "https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTY3MDcsIm5iZiI6MTc2MzA1NjQwNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE3NTMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZmE3ZDE1MzNjOTkzMDcwY2I2NDRjMjVmNWE3NTY4ODdhNWIwM2E1M2M0ZTJiNGFhMDU1Zjk4NGFkNTQ2NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KnE2MsEhmpBhc1AUQiUv-wpYnzhxX0UJ50PfF351qq8" height="30"/> </p>
 <p align="left"> <a href="https://twitter.com/drdabdulmasood" target="blank"><img src="https://img.shields.io/twitter/follow/drdabdulmasood?logo=twitter&style=for-the-badge" alt="drdabdulmasood" /></a> </p>
 
 - Hi im currently working on [D.R.D Projects](https://revolution.drdsecurity.com/)
@@ -43,6 +45,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg">
 </picture>
-<img src ="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
 
 
