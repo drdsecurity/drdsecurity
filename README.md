@@ -32,7 +32,7 @@
 
 <p>
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drdcybersecurity&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drdcybersecurity" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drdsecurity&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drdsecurity" /> 
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drdcybersecurity&show_icons=true&locale=en&theme=dracula" alt="drdcybersecurity" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drdsecurity&show_icons=true&locale=en&theme=dracula" alt="drdsecurity" /></p>
