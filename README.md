@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drdsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="drdsecurity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drdsecurity" alt="drdsecurity" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/drdabdulmasood" target="blank"><img src="https://img.shields.io/twitter/follow/drdabdulmasood?logo=twitter&style=for-the-badge" alt="drdabdulmasood" /></a> </p>
 
 - Hi im currently working on [D.R.D Projects](https://revolution.drdsecurity.com/)
