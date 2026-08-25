@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="20" viewBox="0 0 12 20" role="img" aria-label="Animated terminal cursor">
+  <rect width="10" height="18" x="1" y="1" rx="1" fill="#46e2d9">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">D.R.D Cyber Command System — Abdul Masood</title>
+  <desc id="desc">A refined cyber command interface introducing Abdul Masood, Founder and CEO of D.R.D Security Private Limited.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#060b16"/>
+      <stop offset="1" stop-color="#10122a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#35e0da" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#35e0da"/>
+      <stop offset="1" stop-color="#8a72ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#58e6dd" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="460" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="18" fill="url(#grid)"/>
+  <path d="M0 74H1200M0 390H1200" stroke="#4be6de" stroke-opacity=".24"/>
+  <path d="M72 74V390M1128 74V390" stroke="#4be6de" stroke-opacity=".16"/>
+  <path d="M72 104H1128" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <g fill="#8eece7" font-family="Consolas, Monaco, monospace" font-size="14" letter-spacing="2">
+    <text x="72" y="48">D.R.D // CYBER COMMAND SYSTEM</text>
+    <text x="895" y="48" fill="#86f1bd">● SYSTEM STATUS: ONLINE</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="166" fill="#f2f8ff" font-size="58" font-weight="700" letter-spacing="3">ABDUL MASOOD</text>
+    <text x="76" y="211" fill="#44ded8" font-size="23" letter-spacing="1">FOUNDER &amp; CEO</text>
+    <text x="76" y="244" fill="#c5d1e7" font-size="19">D.R.D Security Private Limited</text>
+    <path d="M76 274H693" stroke="#48ded7" stroke-opacity=".48"/>
+    <text x="76" y="311" fill="#d8e2f2" font-size="17">Security Analyst  •  Penetration Tester  •  Forensics Investigator  •  VAPT  •  DFIR</text>
+    <text x="76" y="342" fill="#d8e2f2" font-size="17">Trainer  •  Speaker  •  Author</text>
+    <text x="76" y="421" fill="#aab8d1" font-size="16" letter-spacing=".6">BUILDING GLOBAL CYBER RESILIENCE THROUGH AWARENESS, EDUCATION &amp; COLLABORATION</text>
+  </g>
+  <g transform="translate(839 160)" fill="none" stroke-linecap="round">
+    <circle cx="140" cy="90" r="86" stroke="#35e0da" stroke-opacity=".38"/>
+    <circle cx="140" cy="90" r="56" stroke="#8a72ff" stroke-opacity=".55" stroke-dasharray="5 9"/>
+    <circle cx="140" cy="90" r="9" fill="#5bf0cf" stroke="none" filter="url(#glow)"/>
+    <path d="M140 0V30M140 150V180M50 90H80M200 90H230" stroke="#52e6dc" stroke-opacity=".7"/>
+    <path d="M78 28l16 16M186 136l16 16M202 28l-16 16M94 136l-16 16" stroke="#8d78ff" stroke-opacity=".55"/>
+    <path d="M0 90H34M246 90H280" stroke="#35e0da" stroke-opacity=".35"/>
+  </g>
+  <g fill="#9daece" font-family="Consolas, Monaco, monospace" font-size="12" letter-spacing="1.4">
+    <text x="878" y="372">MISSION: LEARN | RESEARCH | INVESTIGATE</text>
+    <text x="72" y="88">SECURITY OPERATIONS // EXECUTIVE PORTFOLIO</text>
+  </g>
+</svg>

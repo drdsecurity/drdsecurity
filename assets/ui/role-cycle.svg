@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 42" role="img" aria-labelledby="title desc">
+  <title id="title">Professional roles</title>
+  <desc id="desc">Founder and CEO, Security Analyst, Penetration Tester, DFIR Investigator, VAPT Professional, Security Researcher, Cybersecurity Trainer, and Author.</desc>
+  <rect width="900" height="42" rx="7" fill="#091523" stroke="#35dcd4" stroke-opacity=".32"/>
+  <path d="M24 21H191M709 21H876" stroke="#35dcd4" stroke-opacity=".42"/>
+  <g fill="#9cece7" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="600" text-anchor="middle" letter-spacing="1.4">
+    <text x="450" y="27">FOUNDER &amp; CEO<animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" keyTimes="0;.11;.125;.875;.89;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">SECURITY ANALYST<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.125;.14;.235;.25;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">PENETRATION TESTER<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.265;.36;.375;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">DFIR INVESTIGATOR<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.375;.39;.485;.5;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">VAPT PROFESSIONAL<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.5;.515;.61;.625;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">SECURITY RESEARCHER<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.625;.64;.735;.75;1" dur="24s" repeatCount="indefinite"/></text>
+    <text x="450" y="27" opacity="0">CYBERSECURITY TRAINER &amp; AUTHOR<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.75;.765;.86;.875;1" dur="24s" repeatCount="indefinite"/></text>
+  </g>
+</svg>

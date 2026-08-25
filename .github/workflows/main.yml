@@ -8,9 +8,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Run on pushes to the current default branch, while retaining legacy support.
   push:
     branches:
+    - main
     - master
     
   

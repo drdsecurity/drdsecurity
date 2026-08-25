@@ -1,50 +1,96 @@
-<h1 align="center">Hi 👋, I'm Adbul Masood</h1>
-<h3 align="center">Founder/CEO Of D.R.D Cybersecurity</h3>
-<img src ="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height= "100" width= "900"/>
-<img align="right" alt="Pentesting" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRwaW1uOWpkbmNrMjQweHh0MTc4NWwxYzBwbmJmdWNxd2lzOHR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
+<div align="center">
+  <img src="assets/hero/cyber-command.svg" alt="D.R.D Cyber Command System — Abdul Masood" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drdsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="drdsecurity" /> 
-<img src= "https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTY3MDcsIm5iZiI6MTc2MzA1NjQwNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE3NTMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZmE3ZDE1MzNjOTkzMDcwY2I2NDRjMjVmNWE3NTY4ODdhNWIwM2E1M2M0ZTJiNGFhMDU1Zjk4NGFkNTQ2NzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KnE2MsEhmpBhc1AUQiUv-wpYnzhxX0UJ50PfF351qq8" height="30"/> </p>
-<p align="left"> <a href="https://twitter.com/drdabdulmasood" target="blank"><img src="https://img.shields.io/twitter/follow/drdabdulmasood?logo=twitter&style=for-the-badge" alt="drdabdulmasood" /></a> </p>
+<div align="center">
+  <img src="assets/ui/role-cycle.svg" alt="Founder and CEO; Security Analyst; Penetration Tester; DFIR Investigator; VAPT Professional; Security Researcher; Cybersecurity Trainer; Author" />
+</div>
 
-- Hi im currently working on [D.R.D Projects](https://revolution.drdsecurity.com/)
+<br />
 
-- 👨‍💻 All of my projects are available at [https://abdul-masood.drdsecurity.com/](https://abdul-masood.drdsecurity.com/)
+## `// ABOUT / COMMAND TERMINAL`
 
-- 📝 I regularly write articles on [https://blogs.drdsecurity.com/](https://blogs.drdsecurity.com/)
+```text
+drdsecurity@cyber-core:~$ whoami
 
-- 📫 How to reach me **founder@drdsecurity.com**
+Abdul Masood — Founder & CEO, D.R.D Security Pvt. Ltd.
+Security Analyst | Penetration Tester | DFIR Investigator
+Building secure systems, cybersecurity education, and practical research.
 
-- 📄 Know about my experiences [https://abdul-masood.drdsecurity.com/about/](https://abdul-masood.drdsecurity.com/about/)
+drdsecurity@cyber-core:~$ mission
+Building global cyber resilience through awareness, education & collaboration.
+```
 
-- ⚡ Fun fact **Script kiddies are real Hackers**
+## `// CYBER ARSENAL`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/drdabdulmasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drdabdulmasood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/d-r-d-security" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-r-d-security" height="30" width="40" /></a>
-<a href="https://fb.com/drd5ecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drd5ecurity" height="30" width="40" /></a>
-<a href="https://instagram.com/drd_5ecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drd_5ecurity" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/d.r.dsecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d.r.dsecurity" height="30" width="40" /></a>
-<a href="https://discord.gg/WStgbRJ5gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WStgbRJ5gm" height="30" width="40" /></a>
-</p>
+| Security operations | Engineering & cloud | Research & response |
+| :-- | :-- | :-- |
+| Networking · Linux · Penetration Testing · VAPT · Web Security · Mobile Security · IoT Security | Python · AWS · Cloud Security · Endpoint Security · Security Engineering | DFIR · Digital Forensics · Incident Response · Threat Hunting · Malware Analysis · Reverse Engineering · Threat Intelligence |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## `// CURRENT SYSTEMS`
 
-<p>
- 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drdsecurity&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drdsecurity" /> 
-  </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drdsecurity&show_icons=true&locale=en&theme=dracula" alt="drdsecurity" /></p>
+| System | Scope | Status |
+| :-- | :-- | :-- |
+| [Cyber-Security-Road-maps](https://github.com/drdsecurity/Cyber-Security-Road-maps) | Public cybersecurity learning roadmaps and reference material. | Public repository |
+| [Orignal-Slowloris-HTTP-DoS](https://github.com/drdsecurity/Orignal-Slowloris-HTTP-DoS) | Archived original Slowloris HTTP DoS script, retained as a public fork. | Public fork |
 
+> Project listings are intentionally limited to verified public repositories. More work is available through the [D.R.D Projects portal](https://revolution.drdsecurity.com/).
 
-## MY Github Contributions: 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg">
-</picture>
+## `// GITHUB INTELLIGENCE`
 
+<div align="center">
+  <code>[ <a href="https://github.com/drdsecurity?tab=repositories">EXPLORE PUBLIC REPOSITORIES</a> ]</code>
+  &nbsp; <code>[ <a href="https://github.com/drdsecurity">VIEW LIVE PROFILE</a> ]</code>
+</div>
 
+<br />
 
+GitHub’s native profile and contribution graph remain the source of truth for live activity. This profile avoids hard-coded counts and third-party statistic services.
+
+## `// CONTRIBUTION / ACTIVITY`
+
+<div align="center">
+  <a href="https://github.com/drdsecurity">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg" />
+      <img src="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for drdsecurity" />
+    </picture>
+  </a>
+</div>
+
+## `// RESEARCH AREAS`
+
+<div align="center">
+
+`CYBERSECURITY` &nbsp; `SECURITY RESEARCH` &nbsp; `PENETRATION TESTING` &nbsp; `DFIR` &nbsp; `THREAT INTELLIGENCE`<br />
+`CLOUD SECURITY` &nbsp; `MALWARE ANALYSIS` &nbsp; `INCIDENT RESPONSE` &nbsp; `AI IN CYBERSECURITY`
+
+</div>
+
+## `// D.R.D SECURITY`
+
+> **D.R.D Security Pvt. Ltd.** is the command center for focused security learning, research, and investigation.
+>
+> `LEARN | RESEARCH | INVESTIGATE`
+
+<div align="center">
+  <code>[ <a href="https://drdsecurity.com">VISIT DRDSECURITY.COM</a> ]</code>
+</div>
+
+## `// CONNECT`
+
+<div align="center">
+  <a href="https://drdsecurity.com">Website</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/company/d-r-d-security">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.youtube.com/@D.R.DSecurity">YouTube</a> &nbsp;•&nbsp;
+  <a href="https://www.instagram.com/drd_5ecurity">Instagram</a> &nbsp;•&nbsp;
+  <a href="https://discord.gg/WStgbRJ5gm">Discord</a> &nbsp;•&nbsp;
+  <a href="https://github.com/drdsecurity">GitHub</a>
+</div>
+
+<br />
+
+<div align="center">
+  <code>drdsecurity@cyber-core:~$ Building secure systems. Empowering people. Securing the future.</code><img src="assets/ui/terminal-cursor.svg" alt="" width="8" height="14" />
+</div>
