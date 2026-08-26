@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">D.R.D Cyber Command System — Abdul Masood</title>
+  <desc id="desc">A cyber command gateway for Abdul Masood, Founder and CEO of D.R.D Security Private Limited.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02090d"/><stop offset=".56" stop-color="#071923"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#39dcd7" stop-opacity="0"/><stop offset=".48" stop-color="#39dcd7"/><stop offset="1" stop-color="#9578f6" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#4dded8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="18" fill="url(#bg)"/><rect width="1200" height="460" rx="18" fill="url(#grid)"/>
+  <path d="M42 58h180m-180 0v28m0-28h28M1158 58H978m180 0v28m0-28h-28M42 402h180m-180 0v-28m0 28h28M1158 402H978m180 0v-28m0 28h-28" fill="none" stroke="#48ddd6" stroke-opacity=".5"/>
+  <path d="M42 92H1158M42 376H1158" stroke="#48ddd6" stroke-opacity=".18"/><path d="M42 92H1158" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="57" fill="#8ceae6" font-size="14" font-family="monospace" letter-spacing="2">D.R.D // CYBER COMMAND SYSTEM</text><circle cx="1019" cy="51" r="5" fill="#79dca0"/><text x="1032" y="57" fill="#8ce5b1" font-size="13" font-family="monospace" letter-spacing="1.3">SYSTEM STATUS: ONLINE</text>
+    <text x="70" y="169" fill="#f2f8ff" font-size="58" font-weight="700" letter-spacing="2">ABDUL MASOOD</text><text x="73" y="210" fill="#48ddd6" font-size="21" font-weight="700" letter-spacing="1.1">FOUNDER &amp; CEO &#8226; D.R.D SECURITY PRIVATE LIMITED</text><path d="M72 237H704" stroke="#50ddd7" stroke-opacity=".48"/>
+    <text x="72" y="276" fill="#d4e1ec" font-size="16">Security Analyst &#8226; Penetration Tester &#8226; Forensics Investigator &#8226; VAPT &#8226; DFIR</text><text x="72" y="306" fill="#d4e1ec" font-size="16">Trainer &#8226; Speaker &#8226; Author</text><text x="72" y="347" fill="#aebfd0" font-size="16">Building Global Cyber Resilience through</text><text x="72" y="371" fill="#8ceae6" font-size="16" font-weight="700">Awareness, Education &amp; Collaboration</text>
+  </g>
+  <g transform="translate(848 120)" fill="none" stroke-linecap="round">
+    <circle cx="135" cy="130" r="103" stroke="#49ded7" stroke-opacity=".45"/><circle cx="135" cy="130" r="72" stroke="#8d78f3" stroke-opacity=".52" stroke-dasharray="4 9"/><circle cx="135" cy="130" r="40" stroke="#49ded7" stroke-opacity=".32"/>
+    <path d="M135 16v30m0 168v30M21 130h30m168 0h30M60 55l22 22m106 106 22 22m0-150-22 22M82 183l-22 22" stroke="#55e5dc" stroke-opacity=".7"/><path d="M36 175C72 229 182 238 237 173M43 80C92 29 187 36 228 84" stroke="#56dcd7" stroke-opacity=".25"/><path d="M76 202C108 164 165 165 206 102M69 96C97 118 129 107 167 57" stroke="#9578f6" stroke-opacity=".55"/>
+    <circle cx="135" cy="130" r="8" fill="#77e9ce" stroke="none"/><circle cx="76" cy="202" r="4" fill="#55e5dc" stroke="none"/><circle cx="206" cy="102" r="4" fill="#55e5dc" stroke="none"/><circle cx="167" cy="57" r="4" fill="#9a82f6" stroke="none"/>
+  </g>
+  <text x="812" y="371" fill="#9eb8c7" font-size="12" font-family="monospace" letter-spacing="1.1">LEARN | RESEARCH | INVESTIGATE</text>
+</svg>

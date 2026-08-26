@@ -1,104 +1,92 @@
-<div align="center">
-  <img src="assets/hero/cyber-command.svg" alt="D.R.D Cyber Command System — Abdul Masood" />
-</div>
-
-<div align="center">
-  <img src="assets/ui/role-cycle.svg" alt="Founder and CEO; Security Analyst; Penetration Tester; DFIR Investigator; VAPT Professional; Security Researcher; Cybersecurity Trainer; Author" />
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="assets/readme/drd-logo.png" alt="D.R.D Security logo" width="92" />
+  <br />
   <a href="https://drdsecurity.github.io">
-    <img src="https://img.shields.io/badge/ENTER%20D.R.D%20CYBER%20COMMAND-0b1720?style=for-the-badge&logo=github&logoColor=white&labelColor=00a8a8" alt="Enter D.R.D Cyber Command" />
+    <img src="assets/readme/drd-command-hero.svg" alt="D.R.D Cyber Command System — Abdul Masood" width="100%" />
+  </a>
+</p>
+
+# Abdul Masood
+
+**Founder &amp; CEO — D.R.D Security Private Limited**
+
+Security Analyst &bull; Penetration Tester &bull; DFIR Investigator &bull; VAPT &bull; Cybersecurity Trainer &bull; Security Research
+
+> Building Global Cyber Resilience through Awareness, Education &amp; Collaboration.
+
+| Public Repositories | GitHub Profile | Security Focus | Research | Full Portfolio |
+| :-- | :-- | :-- | :-- | :-- |
+| Public | Active | Cybersecurity | Research Active | Online |
+
+<p align="center">
+  <a href="https://drdsecurity.github.io">
+    <img src="assets/readme/enter-command.svg" alt="Enter D.R.D Cyber Command — Interactive Cybersecurity Portfolio and Command Profile" width="760" />
   </a>
   <br />
   <sub>Interactive Cybersecurity Portfolio &amp; Command Profile</sub>
-</div>
+</p>
 
-<br />
+## Executive Profile
 
-## `// ABOUT / COMMAND TERMINAL`
+Abdul Masood leads D.R.D Security Private Limited with a focus on practical security analysis, resilient systems, and cybersecurity education.
 
-```text
-drdsecurity@cyber-core:~$ whoami
+- Security Analysis, Penetration Testing, VAPT, and DFIR
+- Digital Forensics, Security Research, and Cybersecurity Training
+- Building global cyber resilience through awareness, education, and collaboration
 
-Abdul Masood — Founder & CEO, D.R.D Security Pvt. Ltd.
-Security Analyst | Penetration Tester | DFIR Investigator
-Building secure systems, cybersecurity education, and practical research.
+## Cyber Arsenal
 
-drdsecurity@cyber-core:~$ mission
-Building global cyber resilience through awareness, education & collaboration.
-```
+<p>
+  <code>Networking</code> <code>Linux</code> <code>Penetration Testing</code> <code>VAPT</code> <code>DFIR</code> <code>Digital Forensics</code><br />
+  <code>Incident Response</code> <code>Malware Analysis</code> <code>Reverse Engineering</code> <code>Web Security</code> <code>Mobile Security</code> <code>IoT Security</code><br />
+  <code>Endpoint Security</code> <code>AWS</code> <code>Cloud Security</code> <code>Threat Hunting</code> <code>Python / Scripting</code> <code>Security Research</code>
+</p>
 
-## `// CYBER ARSENAL`
+## Command Systems
 
-| Security operations | Engineering & cloud | Research & response |
-| :-- | :-- | :-- |
-| Networking · Linux · Penetration Testing · VAPT · Web Security · Mobile Security · IoT Security | Python · AWS · Cloud Security · Endpoint Security · Security Engineering | DFIR · Digital Forensics · Incident Response · Threat Hunting · Malware Analysis · Reverse Engineering · Threat Intelligence |
+| System | Command Focus |
+| :-- | :-- |
+| **LYRA AIOS** | AI-driven cyber intelligence / operating system. |
+| **DRD Guardian Suit** | Advanced futuristic cyber-protection suit platform. |
+| **DRD Guardian HL150** | Autonomous high-altitude logistics and mission-support UAS. |
+| **DRD Vajra-X** | Next-generation AI-integrated advanced battle platform. |
 
-## `// CURRENT SYSTEMS`
+## Research Areas
 
-| System | Scope | Status |
-| :-- | :-- | :-- |
-| [Cyber-Security-Road-maps](https://github.com/drdsecurity/Cyber-Security-Road-maps) | Public cybersecurity learning roadmaps and reference material. | Public repository |
-| [Orignal-Slowloris-HTTP-DoS](https://github.com/drdsecurity/Orignal-Slowloris-HTTP-DoS) | Archived original Slowloris HTTP DoS script, retained as a public fork. | Public fork |
+| | |
+| :-- | :-- |
+| AI in Cyber Security | IoT Security |
+| Malware Analysis | Cloud Security |
+| Threat Intelligence | DFIR &amp; Incident Response |
 
-> Project listings are intentionally limited to verified public repositories. More work is available through the [D.R.D Projects portal](https://revolution.drdsecurity.com/).
+## GitHub &amp; Public Signals
 
-## `// GITHUB INTELLIGENCE`
+GitHub’s native profile and contribution graph remain the source of truth for public activity. This profile intentionally avoids hard-coded repository, follower, star, and contribution counts.
 
-<div align="center">
-  <code>[ <a href="https://github.com/drdsecurity?tab=repositories">EXPLORE PUBLIC REPOSITORIES</a> ]</code>
-  &nbsp; <code>[ <a href="https://github.com/drdsecurity">VIEW LIVE PROFILE</a> ]</code>
-</div>
+- [View GitHub profile](https://github.com/drdsecurity)
+- [Explore public repositories](https://github.com/drdsecurity?tab=repositories)
 
-<br />
+## Technology Signals
 
-GitHub’s native profile and contribution graph remain the source of truth for live activity. This profile avoids hard-coded counts and third-party statistic services.
+<p><code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code> <code>Linux</code> <code>AWS</code></p>
 
-## `// CONTRIBUTION / ACTIVITY`
+## Evidence Before Acclaim
 
-<div align="center">
-  <a href="https://github.com/drdsecurity">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/drdsecurity/drdsecurity/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for drdsecurity" />
-    </picture>
-  </a>
-</div>
+- Verified records only
+- Public evidence where available
+- Achievements added after verification
 
-## `// RESEARCH AREAS`
+## Connect
 
-<div align="center">
+- [GitHub](https://github.com/drdsecurity)
+- [Website](https://drdsecurity.com)
+- [Interactive Portfolio](https://drdsecurity.github.io)
 
-`CYBERSECURITY` &nbsp; `SECURITY RESEARCH` &nbsp; `PENETRATION TESTING` &nbsp; `DFIR` &nbsp; `THREAT INTELLIGENCE`<br />
-`CLOUD SECURITY` &nbsp; `MALWARE ANALYSIS` &nbsp; `INCIDENT RESPONSE` &nbsp; `AI IN CYBERSECURITY`
+---
 
-</div>
-
-## `// D.R.D SECURITY`
-
-> **D.R.D Security Pvt. Ltd.** is the command center for focused security learning, research, and investigation.
->
-> `LEARN | RESEARCH | INVESTIGATE`
-
-<div align="center">
-  <code>[ <a href="https://drdsecurity.com">VISIT DRDSECURITY.COM</a> ]</code>
-</div>
-
-## `// CONNECT`
-
-<div align="center">
-  <a href="https://drdsecurity.com">Website</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/company/d-r-d-security">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/@D.R.DSecurity">YouTube</a> &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/drd_5ecurity">Instagram</a> &nbsp;•&nbsp;
-  <a href="https://discord.gg/WStgbRJ5gm">Discord</a> &nbsp;•&nbsp;
-  <a href="https://github.com/drdsecurity">GitHub</a>
-</div>
-
-<br />
-
-<div align="center">
-  <code>drdsecurity@cyber-core:~$ Building secure systems. Empowering people. Securing the future.</code><img src="assets/ui/terminal-cursor.svg" alt="" width="8" height="14" />
-</div>
+<p align="center">
+  <strong>D.R.D SECURITY</strong><br />
+  <code>LEARN | RESEARCH | INVESTIGATE</code><br />
+  Building Global Cyber Resilience.<br />
+  <a href="https://drdsecurity.github.io">Enter the full interactive portfolio</a>
+</p>
