@@ -6,6 +6,14 @@
   <img src="assets/ui/role-cycle.svg" alt="Founder and CEO; Security Analyst; Penetration Tester; DFIR Investigator; VAPT Professional; Security Researcher; Cybersecurity Trainer; Author" />
 </div>
 
+<div align="center">
+  <a href="https://drdsecurity.github.io">
+    <img src="https://img.shields.io/badge/ENTER%20D.R.D%20CYBER%20COMMAND-0b1720?style=for-the-badge&logo=github&logoColor=white&labelColor=00a8a8" alt="Enter D.R.D Cyber Command" />
+  </a>
+  <br />
+  <sub>Interactive Cybersecurity Portfolio &amp; Command Profile</sub>
+</div>
+
 <br />
 
 ## `// ABOUT / COMMAND TERMINAL`
